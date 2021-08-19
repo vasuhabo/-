@@ -7,12 +7,28 @@ let num = 50;
 
 //     num++;
 // }
-do {
-    console.log(num);
+// do {
+//     console.log(num);
 
-    num++;
+//     num++;
+// }
+// while (num < 55);
+
+
+for (let i = 1; i < 8; i++) {
+console.log(i);
+num++;
 }
-while (num < 55);
+
+
+
+
+
+
+
+
+
+
 
 
 
